@@ -3,7 +3,7 @@ cat << 'EOF' > README.md
 <h3 align="center">💻 CSE Student | Java • DSA • AI/ML Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Building+strong+DSA+foundations;Exploring+AI+%26+Machine+Learning;Consistent+coding+everyday+🚀;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Building+strong+DSA+foundations;Exploring+AI+and+Machine+Learning;Consistent+coding+everyday;Future+Software+Engineer" />
 </p>
 
 ---
